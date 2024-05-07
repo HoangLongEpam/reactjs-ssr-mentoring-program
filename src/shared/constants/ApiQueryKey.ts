@@ -1,0 +1,4 @@
+export const API_QUERY_KEY = {
+  GET_MOVIES: "GET_MOVIES",
+  GET_MOVIE_BY_ID: "GET_MOVIE_BY_ID",
+}
